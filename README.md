@@ -1,6 +1,6 @@
-# ESoC 2025 challenge - ecoSPECS
+# ESoC 2025 challenge - ecoSPECS "clean room design"
 
-This repository contains trial datasets for the ecoSPECS challenge at European Summer of Code 2025, and suggested trial tasks.
+This repository contains trial datasets for the ecoSPECS "clean room design" challenge at European Summer of Code 2025, and suggested trial tasks.
 
 For Q&A with experts from ecoSPECS and mentors from GC.OS, you can use the [GitHub discussion forum](https://github.com/european-summer-of-code/esoc2025-challenge-ecospecs/discussions) in this repository (monitored during the ESoC 2025 application period).
 
